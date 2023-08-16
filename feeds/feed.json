@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "collection": "../collections/Postman Echo Cookie.postman_collection.json"
+    },
+    {
+      "collection": "../collections/Postman Echo Request.postman_collection.json",
+      "environment": "../environments/My Environment.postman_environment.json"
+    }
+  ]
+}
