@@ -6,6 +6,12 @@ link: <https://nareshnavinash.github.io/newman-run/>
 
 ---
 
+Run newman
+
+```bash
+newman run collections/Postman\ Echo\ Request.postman_collection.json -e environments/My\ Environment.postman_environment.json
+```
+
 Run Newman-run
 
 ```bash
